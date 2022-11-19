@@ -7,3 +7,5 @@
 - Publish the changes to remote repository -  `git push`
 - Create a branch off a given branch you were on previously - `git checkout -b develop`
 - To see the branches - `git branch`
+- To **fetch** and **download** content from a given branch - ` git pull` or  `git pull main`
+- To **process** to **move or combine commits** to a new base commit - `git rebase main`
